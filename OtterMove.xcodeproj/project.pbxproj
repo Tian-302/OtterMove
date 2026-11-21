@@ -1,0 +1,434 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {};
+	objectVersion = 56;
+	objects = {
+		32DDE968EC0A6B6D849702BF = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.swift;
+			path = "Activities.swift";
+			sourceTree = "<group>";
+		};
+		80AEF0FD464F0EFCE67B206C = {
+			isa = PBXBuildFile;
+			fileRef = 32DDE968EC0A6B6D849702BF;
+		};
+		C2375993759B90DB4E22B4D1 = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.swift;
+			path = "AppStore.swift";
+			sourceTree = "<group>";
+		};
+		CE6023F350592E9892DC8E72 = {
+			isa = PBXBuildFile;
+			fileRef = C2375993759B90DB4E22B4D1;
+		};
+		A0B8E4B08B89709D685064E3 = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.swift;
+			path = "CareData.swift";
+			sourceTree = "<group>";
+		};
+		13EAB1D730A478EC69C2301A = {
+			isa = PBXBuildFile;
+			fileRef = A0B8E4B08B89709D685064E3;
+		};
+		7FDACD54688BA5A6B58B8601 = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.swift;
+			path = "CareFocusFilter.swift";
+			sourceTree = "<group>";
+		};
+		871F55FD7A7610E0170836D1 = {
+			isa = PBXBuildFile;
+			fileRef = 7FDACD54688BA5A6B58B8601;
+		};
+		8A9D3BF9EFBC4A33F8F32CFC = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.swift;
+			path = "CareHistoryView.swift";
+			sourceTree = "<group>";
+		};
+		ACCEC815D66EFF629EF9C206 = {
+			isa = PBXBuildFile;
+			fileRef = 8A9D3BF9EFBC4A33F8F32CFC;
+		};
+		5D22F362E2AFF0FC3FD13DED = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.swift;
+			path = "CareSetupView.swift";
+			sourceTree = "<group>";
+		};
+		BBC2DF6D17309156262B4B30 = {
+			isa = PBXBuildFile;
+			fileRef = 5D22F362E2AFF0FC3FD13DED;
+		};
+		9372738A4EECF8FF90DED5E7 = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.swift;
+			path = "CheckinView.swift";
+			sourceTree = "<group>";
+		};
+		B5D325E0F064F70E7F878B9A = {
+			isa = PBXBuildFile;
+			fileRef = 9372738A4EECF8FF90DED5E7;
+		};
+		C2ABFE7C5A4A259C701F092C = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.swift;
+			path = "Design.swift";
+			sourceTree = "<group>";
+		};
+		97A9FBEBB2D6A3E5C771D292 = {
+			isa = PBXBuildFile;
+			fileRef = C2ABFE7C5A4A259C701F092C;
+		};
+		A38CB259E4AE377CFD123FBD = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.swift;
+			path = "ExerciseSelectionView.swift";
+			sourceTree = "<group>";
+		};
+		3B6E251424FA1C543CE6408B = {
+			isa = PBXBuildFile;
+			fileRef = A38CB259E4AE377CFD123FBD;
+		};
+		38F1C2D16F18A06AC79F2564 = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.swift;
+			path = "ExerciseView.swift";
+			sourceTree = "<group>";
+		};
+		25C2E085ADCA09E89C2B4A7D = {
+			isa = PBXBuildFile;
+			fileRef = 38F1C2D16F18A06AC79F2564;
+		};
+		0C77D44CD3BE9DBA72658DEB = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.swift;
+			path = "HealthReference.swift";
+			sourceTree = "<group>";
+		};
+		96546BD63B2C5D6FC66BE0C3 = {
+			isa = PBXBuildFile;
+			fileRef = 0C77D44CD3BE9DBA72658DEB;
+		};
+		95A048E8730227EC174D47B3 = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.swift;
+			path = "HomeView.swift";
+			sourceTree = "<group>";
+		};
+		383BFD9FA7FAC4FBA1FBC33A = {
+			isa = PBXBuildFile;
+			fileRef = 95A048E8730227EC174D47B3;
+		};
+		EDEAA1C8785774E3C5552DCB = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.swift;
+			path = "LakeBackdrop.swift";
+			sourceTree = "<group>";
+		};
+		7E4967C5F575C92998AFB0A0 = {
+			isa = PBXBuildFile;
+			fileRef = EDEAA1C8785774E3C5552DCB;
+		};
+		60F6FD03FC7B0AB2AFE2E94D = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.swift;
+			path = "MainTabView.swift";
+			sourceTree = "<group>";
+		};
+		863F19AB58FDBF15E6A2E216 = {
+			isa = PBXBuildFile;
+			fileRef = 60F6FD03FC7B0AB2AFE2E94D;
+		};
+		EBB057DC0701A5124357F943 = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.swift;
+			path = "MeditationAudio.swift";
+			sourceTree = "<group>";
+		};
+		C7B6E13283BE76294DAC4EB7 = {
+			isa = PBXBuildFile;
+			fileRef = EBB057DC0701A5124357F943;
+		};
+		B54E20E0F0294CEE24C1D572 = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.swift;
+			path = "MeditationTiming.swift";
+			sourceTree = "<group>";
+		};
+		A48849408649DC8EF3C6B0FC = {
+			isa = PBXBuildFile;
+			fileRef = B54E20E0F0294CEE24C1D572;
+		};
+		1C927153C21131C35FD0200B = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.swift;
+			path = "MeditationView.swift";
+			sourceTree = "<group>";
+		};
+		8C52A7EBD80ED7C6DFFE626F = {
+			isa = PBXBuildFile;
+			fileRef = 1C927153C21131C35FD0200B;
+		};
+		5C48420B1771DE7AF36A4AB0 = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.swift;
+			path = "MoodRecord.swift";
+			sourceTree = "<group>";
+		};
+		0F35E80329C974296B182FE8 = {
+			isa = PBXBuildFile;
+			fileRef = 5C48420B1771DE7AF36A4AB0;
+		};
+		1FD9AD992022D96435A052FE = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.swift;
+			path = "MoodStore.swift";
+			sourceTree = "<group>";
+		};
+		FCEC0EA2CC41942305E76F3D = {
+			isa = PBXBuildFile;
+			fileRef = 1FD9AD992022D96435A052FE;
+		};
+		A58E1737925BDF0275AD8694 = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.swift;
+			path = "MoodType.swift";
+			sourceTree = "<group>";
+		};
+		EC8D1BC812726DDFC18E1C98 = {
+			isa = PBXBuildFile;
+			fileRef = A58E1737925BDF0275AD8694;
+		};
+		1106B2633E3586C4FDD0CEBE = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.swift;
+			path = "OnboardingView.swift";
+			sourceTree = "<group>";
+		};
+		A06D36E23F06B5C2EBCF459A = {
+			isa = PBXBuildFile;
+			fileRef = 1106B2633E3586C4FDD0CEBE;
+		};
+		3F422465DA18F1C8E92D10FE = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.swift;
+			path = "OtterMotionArt.swift";
+			sourceTree = "<group>";
+		};
+		0544283363E060891BE7513A = {
+			isa = PBXBuildFile;
+			fileRef = 3F422465DA18F1C8E92D10FE;
+		};
+		1F6422C93B7BAC8ED49FBC67 = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.swift;
+			path = "OtterMoveApp.swift";
+			sourceTree = "<group>";
+		};
+		4D95246A675E5A4C56A40048 = {
+			isa = PBXBuildFile;
+			fileRef = 1F6422C93B7BAC8ED49FBC67;
+		};
+		CEEF0EBBFE359427D6D0947E = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.swift;
+			path = "OtterPose.swift";
+			sourceTree = "<group>";
+		};
+		A396588944BB487DDD41ACD4 = {
+			isa = PBXBuildFile;
+			fileRef = CEEF0EBBFE359427D6D0947E;
+		};
+		F26E3ED16A8E70F96900D91A = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.swift;
+			path = "OtterRigSurface.swift";
+			sourceTree = "<group>";
+		};
+		0AC140FDA2EEE198072DAC3C = {
+			isa = PBXBuildFile;
+			fileRef = F26E3ED16A8E70F96900D91A;
+		};
+		1E1CDAEDAAF6C95A71261046 = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.swift;
+			path = "RoomScene.swift";
+			sourceTree = "<group>";
+		};
+		33F0675D1F899AD054DACD3F = {
+			isa = PBXBuildFile;
+			fileRef = 1E1CDAEDAAF6C95A71261046;
+		};
+		EE9BC7D9E2284A7836565C9D = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.swift;
+			path = "RoomView.swift";
+			sourceTree = "<group>";
+		};
+		96DA2796116B954D3D18DEE9 = {
+			isa = PBXBuildFile;
+			fileRef = EE9BC7D9E2284A7836565C9D;
+		};
+		B12E4DAE10C0C2A3CE7D4310 = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.swift;
+			path = "SettingsView.swift";
+			sourceTree = "<group>";
+		};
+		7A51C1174876C8698A29F19C = {
+			isa = PBXBuildFile;
+			fileRef = B12E4DAE10C0C2A3CE7D4310;
+		};
+		2EA6C53833B982CEEDF8EFEF = {
+			isa = PBXFileReference;
+			lastKnownFileType = folder.assetcatalog;
+			path = "Assets.xcassets";
+			sourceTree = "<group>";
+		};
+		85B539A2F0EC00D8D4D4C6E5 = {
+			isa = PBXBuildFile;
+			fileRef = 2EA6C53833B982CEEDF8EFEF;
+		};
+		1F499472E9AE8BB402C5B260 = {
+			isa = PBXFileReference;
+			lastKnownFileType = audio.m4a;
+			path = "MeditationPiano.m4a";
+			sourceTree = "<group>";
+		};
+		8F4F2C80FA9BD8EB865DDEC4 = {
+			isa = PBXBuildFile;
+			fileRef = 1F499472E9AE8BB402C5B260;
+		};
+		AA7AC25D2E6ECD83EF93C710 = {
+			isa = PBXFileReference;
+			lastKnownFileType = audio.m4a;
+			path = "MeditationAmbient.m4a";
+			sourceTree = "<group>";
+		};
+		3FADA0191900ED08D27FD74F = {
+			isa = PBXBuildFile;
+			fileRef = AA7AC25D2E6ECD83EF93C710;
+		};
+		D47583A1D9A0604B7AC87074 = {
+			isa = PBXFileReference;
+			lastKnownFileType = audio.m4a;
+			path = "MeditationWater.m4a";
+			sourceTree = "<group>";
+		};
+		7470F7329758CBFDD04FFBAA = {
+			isa = PBXBuildFile;
+			fileRef = D47583A1D9A0604B7AC87074;
+		};
+		E97AE2BBCA7506E79EFDE51C = {
+			isa = PBXFileReference;
+			lastKnownFileType = text.plist.entitlements;
+			path = "OtterMove.entitlements";
+			sourceTree = "<group>";
+		};
+		B090556BEDD270A876CCA8FB = {
+			isa = PBXFileReference;
+			explicitFileType = wrapper.application;
+			includeInIndex = 0;
+			path = "OtterMove.app";
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		9907E0108386F74F98F83919 = {
+			isa = PBXGroup;
+			children = (32DDE968EC0A6B6D849702BF, C2375993759B90DB4E22B4D1, A0B8E4B08B89709D685064E3, 7FDACD54688BA5A6B58B8601, 8A9D3BF9EFBC4A33F8F32CFC, 5D22F362E2AFF0FC3FD13DED, 9372738A4EECF8FF90DED5E7, C2ABFE7C5A4A259C701F092C, A38CB259E4AE377CFD123FBD, 38F1C2D16F18A06AC79F2564, 0C77D44CD3BE9DBA72658DEB, 95A048E8730227EC174D47B3, EDEAA1C8785774E3C5552DCB, 60F6FD03FC7B0AB2AFE2E94D, EBB057DC0701A5124357F943, B54E20E0F0294CEE24C1D572, 1C927153C21131C35FD0200B, 5C48420B1771DE7AF36A4AB0, 1FD9AD992022D96435A052FE, A58E1737925BDF0275AD8694, 1106B2633E3586C4FDD0CEBE, 3F422465DA18F1C8E92D10FE, 1F6422C93B7BAC8ED49FBC67, CEEF0EBBFE359427D6D0947E, F26E3ED16A8E70F96900D91A, 1E1CDAEDAAF6C95A71261046, EE9BC7D9E2284A7836565C9D, B12E4DAE10C0C2A3CE7D4310, 2EA6C53833B982CEEDF8EFEF, 1F499472E9AE8BB402C5B260, AA7AC25D2E6ECD83EF93C710, D47583A1D9A0604B7AC87074, E97AE2BBCA7506E79EFDE51C,);
+			path = "OtterMove";
+			sourceTree = "<group>";
+		};
+		F3CDEBB081927FFC0DC34A4D = {
+			isa = PBXGroup;
+			children = (B090556BEDD270A876CCA8FB,);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		C5DDFD8CC2AEE30F01332492 = {
+			isa = PBXGroup;
+			children = (9907E0108386F74F98F83919, F3CDEBB081927FFC0DC34A4D,);
+			sourceTree = "<group>";
+		};
+		B58A7C18860760ABBD37C73C = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (80AEF0FD464F0EFCE67B206C, CE6023F350592E9892DC8E72, 13EAB1D730A478EC69C2301A, 871F55FD7A7610E0170836D1, ACCEC815D66EFF629EF9C206, BBC2DF6D17309156262B4B30, B5D325E0F064F70E7F878B9A, 97A9FBEBB2D6A3E5C771D292, 3B6E251424FA1C543CE6408B, 25C2E085ADCA09E89C2B4A7D, 96546BD63B2C5D6FC66BE0C3, 383BFD9FA7FAC4FBA1FBC33A, 7E4967C5F575C92998AFB0A0, 863F19AB58FDBF15E6A2E216, C7B6E13283BE76294DAC4EB7, A48849408649DC8EF3C6B0FC, 8C52A7EBD80ED7C6DFFE626F, 0F35E80329C974296B182FE8, FCEC0EA2CC41942305E76F3D, EC8D1BC812726DDFC18E1C98, A06D36E23F06B5C2EBCF459A, 0544283363E060891BE7513A, 4D95246A675E5A4C56A40048, A396588944BB487DDD41ACD4, 0AC140FDA2EEE198072DAC3C, 33F0675D1F899AD054DACD3F, 96DA2796116B954D3D18DEE9, 7A51C1174876C8698A29F19C,);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		AF81772BEBCB5A10A7E98C42 = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = ();
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		5E138CC7AA22337FAF5209FC = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (85B539A2F0EC00D8D4D4C6E5, 8F4F2C80FA9BD8EB865DDEC4, 3FADA0191900ED08D27FD74F, 7470F7329758CBFDD04FFBAA,);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		055FC20A058F90B489E47190 = {
+			isa = XCBuildConfiguration;
+			buildSettings = { SDKROOT = "iphoneos"; IPHONEOS_DEPLOYMENT_TARGET = "16.0"; CLANG_ENABLE_MODULES = "YES"; SWIFT_VERSION = "5.0"; SWIFT_OPTIMIZATION_LEVEL = "-Onone"; DEBUG_INFORMATION_FORMAT = "dwarf"; SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG"; ENABLE_TESTABILITY = "YES"; };
+			name = Debug;
+		};
+		BC86B6C3EE09AC8E498CCE86 = {
+			isa = XCBuildConfiguration;
+			buildSettings = { SDKROOT = "iphoneos"; IPHONEOS_DEPLOYMENT_TARGET = "16.0"; CLANG_ENABLE_MODULES = "YES"; SWIFT_VERSION = "5.0"; SWIFT_COMPILATION_MODE = "wholemodule"; DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym"; };
+			name = Release;
+		};
+		A68CE5079FFEFF6C92418386 = {
+			isa = XCConfigurationList;
+			buildConfigurations = (055FC20A058F90B489E47190, BC86B6C3EE09AC8E498CCE86,);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		682BF39CCB810326C37D9127 = {
+			isa = XCBuildConfiguration;
+			buildSettings = { PRODUCT_BUNDLE_IDENTIFIER = "com.swiftotter.OtterMove"; PRODUCT_NAME = "OtterMove"; TARGETED_DEVICE_FAMILY = "1"; SUPPORTED_PLATFORMS = "iphoneos iphonesimulator"; MARKETING_VERSION = "1.0.1"; CURRENT_PROJECT_VERSION = "8"; CODE_SIGN_STYLE = "Automatic"; "CODE_SIGN_ENTITLEMENTS[sdk=iphoneos*]" = "OtterMove/OtterMove.entitlements"; GENERATE_INFOPLIST_FILE = "YES"; INFOPLIST_KEY_CFBundleDisplayName = "OtterMove"; INFOPLIST_KEY_NSHealthShareUsageDescription = "读取饮水、步数和站立记录，为日常关照提供参考。打卡由你手动确认。"; INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.healthcare-fitness"; INFOPLIST_KEY_UILaunchScreen_Generation = "YES"; INFOPLIST_KEY_UISupportedInterfaceOrientations = "UIInterfaceOrientationPortrait"; ASSETCATALOG_COMPILER_APPICON_NAME = "AppIcon"; ENABLE_PREVIEWS = "YES"; };
+			name = Debug;
+		};
+		9736A189B5C5C7DF08CFF13D = {
+			isa = XCBuildConfiguration;
+			buildSettings = { PRODUCT_BUNDLE_IDENTIFIER = "com.swiftotter.OtterMove"; PRODUCT_NAME = "OtterMove"; TARGETED_DEVICE_FAMILY = "1"; SUPPORTED_PLATFORMS = "iphoneos iphonesimulator"; MARKETING_VERSION = "1.0.1"; CURRENT_PROJECT_VERSION = "8"; CODE_SIGN_STYLE = "Automatic"; "CODE_SIGN_ENTITLEMENTS[sdk=iphoneos*]" = "OtterMove/OtterMove.entitlements"; GENERATE_INFOPLIST_FILE = "YES"; INFOPLIST_KEY_CFBundleDisplayName = "OtterMove"; INFOPLIST_KEY_NSHealthShareUsageDescription = "读取饮水、步数和站立记录，为日常关照提供参考。打卡由你手动确认。"; INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.healthcare-fitness"; INFOPLIST_KEY_UILaunchScreen_Generation = "YES"; INFOPLIST_KEY_UISupportedInterfaceOrientations = "UIInterfaceOrientationPortrait"; ASSETCATALOG_COMPILER_APPICON_NAME = "AppIcon"; ENABLE_PREVIEWS = "YES"; };
+			name = Release;
+		};
+		892F0CEE14EFFD39EBFC6545 = {
+			isa = XCConfigurationList;
+			buildConfigurations = (682BF39CCB810326C37D9127, 9736A189B5C5C7DF08CFF13D,);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		013DC66130FE3D88EEF80B8C = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 892F0CEE14EFFD39EBFC6545;
+			buildPhases = (B58A7C18860760ABBD37C73C, AF81772BEBCB5A10A7E98C42, 5E138CC7AA22337FAF5209FC,);
+			buildRules = ();
+			dependencies = ();
+			name = OtterMove;
+			productName = OtterMove;
+			productReference = B090556BEDD270A876CCA8FB;
+			productType = "com.apple.product-type.application";
+		};
+		6DF6CCD279410CA6035469D0 = {
+			isa = PBXProject;
+			attributes = { LastSwiftUpdateCheck = 1640; LastUpgradeCheck = 1640; };
+			buildConfigurationList = A68CE5079FFEFF6C92418386;
+			compatibilityVersion = "Xcode 14.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (en, Base,);
+			mainGroup = C5DDFD8CC2AEE30F01332492;
+			productRefGroup = F3CDEBB081927FFC0DC34A4D;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (013DC66130FE3D88EEF80B8C,);
+		};
+	};
+	rootObject = 6DF6CCD279410CA6035469D0;
+}
